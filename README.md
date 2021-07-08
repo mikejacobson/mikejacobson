@@ -80,8 +80,13 @@ I'm Mike. I'm a Frontend Developer in Encinitas, CA. I build enterprise Web appl
 </div>
 
 </div>
-
-<br><br><br><br><br><br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 
 ## Some of my StackOverflow answers
