@@ -2,10 +2,37 @@
 I'm Mike. I'm a Frontend Developer in Encinitas, CA. I build enterprise Web applications using Angular and Node.
 
 ## My experience, summarized in badge form
+<img align="left" alt="JavaScript" src="https://img.shields.io/badge/javascript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 <img align="left" alt="Angular" src="https://img.shields.io/badge/angular-%23DD0031?style=for-the-badge&logo=angular&logoColor=white" />
 <img align="left" alt="TypeScript" src="https://img.shields.io/badge/typescript-%233178C6?style=for-the-badge&logo=typescript&logoColor=white" />
 <img align="left" alt="RxJS" src="https://img.shields.io/badge/rxjs-%23B7178C?style=for-the-badge&logo=reactivex&logoColor=white" />
-<img align="left" alt="nodejs" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
+<img align="left" alt="AngularJS" src="https://img.shields.io/badge/angularjs-%23E23237?style=for-the-badge&logo=angularjs&logoColor=white" />
+<img align="left" alt="jQuery" src="https://img.shields.io/badge/jquery-%230769AD?style=for-the-badge&logo=jquery&logoColor=7acef4" />
+
+<br>
+<br>
+
+<div>
+<img align="left" alt="NodeJS" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
+</div>
+
+<br>
+<br>
+
+<div>
+<img align="left" alt="CSS" src="https://img.shields.io/badge/css3-%231572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img align="left" alt="SASS" src="https://img.shields.io/badge/sass-%23CC6699?style=for-the-badge&logo=sass&logoColor=white" />
+</div>
+
+<br>
+<br>
+
+<div>
+<img align="left" alt="Jasmine" src="https://img.shields.io/badge/jasmine-%238A4182?style=for-the-badge&logo=jasmine&logoColor=white" />
+<img align="left" alt="Mocha" src="https://img.shields.io/badge/mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white" />
+<img align="left" alt="Chai" src="https://img.shields.io/badge/chai-%23A30701?style=for-the-badge&logo=chai&logoColor=white" />
+</div>
+
 <br>
 <br>
 
@@ -92,7 +119,13 @@ I'm Mike. I'm a Frontend Developer in Encinitas, CA. I build enterprise Web appl
 
 ## Some of my StackOverflow answers
 
-### Angular/TypeScript/RxJS questions
+<div>
+<img align="left" alt="Angular" src="https://img.shields.io/badge/angular-%23DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+<img align="left" alt="TypeScript" src="https://img.shields.io/badge/typescript-%233178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+<img align="left" alt="RxJS" src="https://img.shields.io/badge/rxjs-%23B7178C?style=for-the-badge&logo=reactivex&logoColor=white" />
+</div>
+<br>
+<br>
 
 <img align="left" alt="stackoverflow logo" src="https://cdn.sstatic.net/Sites/stackoverflow/Img/apple-touch-icon.png" width="90" />
 <div>
@@ -209,8 +242,12 @@ I'm Mike. I'm a Frontend Developer in Encinitas, CA. I build enterprise Web appl
 <br><!-- =============================================================================== -->
 
 
-
-### AngularJS questions
+### 
+<div>
+<img align="left" alt="AngularJS" src="https://img.shields.io/badge/angularjs-%23E23237?style=for-the-badge&logo=angularjs&logoColor=white" />
+</div>
+<br>
+<br>
 
 <img align="left" alt="stackoverflow logo" src="https://cdn.sstatic.net/Sites/stackoverflow/Img/apple-touch-icon.png" width="90" />
 <div>
@@ -269,10 +306,12 @@ I'm Mike. I'm a Frontend Developer in Encinitas, CA. I build enterprise Web appl
   
 <br><!-- =============================================================================== -->
 
-
-
-
-### jQuery questions
+### 
+<div>
+<img align="left" alt="jQuery" src="https://img.shields.io/badge/jquery-%230769AD?style=for-the-badge&logo=jquery&logoColor=7acef4" />
+</div>
+<br>
+<br>
 
 <img align="left" alt="stackoverflow logo" src="https://cdn.sstatic.net/Sites/stackoverflow/Img/apple-touch-icon.png" width="90" />
 <div>
@@ -288,8 +327,12 @@ I'm Mike. I'm a Frontend Developer in Encinitas, CA. I build enterprise Web appl
   
 <br><!-- =============================================================================== -->
 
-
-### Native JavaScript questions
+### 
+<div>
+<img align="left" alt="JavaScript" src="https://img.shields.io/badge/javascript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</div>
+<br>
+<br>
 
 <img align="left" alt="stackoverflow logo" src="https://cdn.sstatic.net/Sites/stackoverflow/Img/apple-touch-icon.png" width="90" />
 <div>
