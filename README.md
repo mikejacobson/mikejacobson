@@ -1,6 +1,8 @@
 ### Hi there! 👋
 I'm Mike. I'm a Frontend Developer in Encinitas, CA. I build enterprise Web applications using Angular and Node.
 
+<br>
+
 ## My experience, summarized in badge form
 <img align="left" alt="JavaScript" src="https://img.shields.io/badge/javascript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 <img align="left" alt="Angular" src="https://img.shields.io/badge/angular-%23DD0031?style=for-the-badge&logo=angular&logoColor=white" />
@@ -35,11 +37,14 @@ I'm Mike. I'm a Frontend Developer in Encinitas, CA. I build enterprise Web appl
 
 <br>
 <br>
+<br>
 
 ## Where you can find me
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/michaeljjacobson)
 [<img align="left" alt="medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://michaeljjacobson.medium.com/)
 [<img align="left" alt="stack-overflow" src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" />](https://stackoverflow.com/users/4192097/mikej)
+
+<br>
 <br>
 <br>
 
@@ -96,6 +101,7 @@ I'm Mike. I'm a Frontend Developer in Encinitas, CA. I build enterprise Web appl
 </div>
 
 </div>
+<br>
 <br>
 <br>
 <br>
