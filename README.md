@@ -43,7 +43,7 @@ I'm Mike. I'm a Frontend Developer in Encinitas, CA. I build enterprise Web appl
 <br>
 <br>
 
-## My articles
+## Articles I've written
 <img align="left" alt="article image" src="https://miro.medium.com/max/1050/1*GEOm4tJ-DLYm4rPXZooJHw.jpeg" width="150" />
 <div>
 <h3>
@@ -105,7 +105,7 @@ I'm Mike. I'm a Frontend Developer in Encinitas, CA. I build enterprise Web appl
 <br>
 
 
-## Some of my StackOverflow answers
+## A sampling of my StackOverflow answers
 
 <div>
 <img align="left" alt="Angular" src="https://img.shields.io/badge/angular-%23DD0031?style=for-the-badge&logo=angular&logoColor=white" />
@@ -293,12 +293,5 @@ I'm Mike. I'm a Frontend Developer in Encinitas, CA. I build enterprise Web appl
 <p>I have a list of products, each individual product has a checkbox value with the products id e.g. "321". When the products checkbox is checked (can be more than 1 selected) i require the value to be collected...</p>
 </div>
   
-<br><!-- =============================================================================== -->
-<br><!-- =============================================================================== -->
-
-
-See all of my answers [here](https://stackoverflow.com/users/4192097/mikej?tab=answers).
-
 <br>
 <br>
-
