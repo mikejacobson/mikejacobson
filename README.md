@@ -107,15 +107,18 @@ I'm Mike. I'm a Frontend Developer in Encinitas, CA. I build enterprise Web appl
 
 ## A sampling of my StackOverflow answers
 
+<br>
 <div>
 <img align="left" alt="Angular" src="https://img.shields.io/badge/angular-%23DD0031?style=for-the-badge&logo=angular&logoColor=white" />
 <img align="left" alt="TypeScript" src="https://img.shields.io/badge/typescript-%233178C6?style=for-the-badge&logo=typescript&logoColor=white" />
 <img align="left" alt="RxJS" src="https://img.shields.io/badge/rxjs-%23B7178C?style=for-the-badge&logo=reactivex&logoColor=white" />
 </div>
-<br>
-<br>
+<div>&nbsp;</div>
+
+<br><!-- =============================================================================== -->
 
 <img align="left" alt="stackoverflow logo" src="https://cdn.sstatic.net/Sites/stackoverflow/Img/apple-touch-icon.png" width="90" />
+
 <div>
 <h3>
 
@@ -211,8 +214,9 @@ I'm Mike. I'm a Frontend Developer in Encinitas, CA. I build enterprise Web appl
 <div>
 <img align="left" alt="AngularJS" src="https://img.shields.io/badge/angularjs-%23E23237?style=for-the-badge&logo=angularjs&logoColor=white" />
 </div>
-<br>
-<br>
+<div>&nbsp;</div>
+
+<br><!-- =============================================================================== -->
 
 <img align="left" alt="stackoverflow logo" src="https://cdn.sstatic.net/Sites/stackoverflow/Img/apple-touch-icon.png" width="90" />
 <div>
@@ -263,8 +267,9 @@ I'm Mike. I'm a Frontend Developer in Encinitas, CA. I build enterprise Web appl
 <div>
 <img align="left" alt="jQuery" src="https://img.shields.io/badge/jquery-%230769AD?style=for-the-badge&logo=jquery&logoColor=7acef4" />
 </div>
-<br>
-<br>
+<div>&nbsp;</div>
+
+<br><!-- =============================================================================== -->
 
 <img align="left" alt="stackoverflow logo" src="https://cdn.sstatic.net/Sites/stackoverflow/Img/apple-touch-icon.png" width="90" />
 <div>
@@ -281,8 +286,9 @@ I'm Mike. I'm a Frontend Developer in Encinitas, CA. I build enterprise Web appl
 <div>
 <img align="left" alt="JavaScript" src="https://img.shields.io/badge/javascript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </div>
-<br>
-<br>
+<div>&nbsp;</div>
+
+<br><!-- =============================================================================== -->
 
 <img align="left" alt="stackoverflow logo" src="https://cdn.sstatic.net/Sites/stackoverflow/Img/apple-touch-icon.png" width="90" />
 <div>
