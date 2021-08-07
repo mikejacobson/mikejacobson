@@ -111,13 +111,14 @@ I'm Mike. I'm a Frontend Developer in Encinitas, CA. I build enterprise Web appl
 <br>
 
 
-## A sampling of my StackOverflow answers
+## A sampling of my Stack Overflow answers
 
 <br>
 <div>
 <img align="left" alt="Angular" src="https://img.shields.io/badge/angular-%23DD0031?style=for-the-badge&logo=angular&logoColor=white" />
 <img align="left" alt="TypeScript" src="https://img.shields.io/badge/typescript-%233178C6?style=for-the-badge&logo=typescript&logoColor=white" />
 <img align="left" alt="RxJS" src="https://img.shields.io/badge/rxjs-%23B7178C?style=for-the-badge&logo=reactivex&logoColor=white" />
+<img align="left" alt="Jasmine" src="https://img.shields.io/badge/jasmine-%238A4182?style=for-the-badge&logo=jasmine&logoColor=white" />
 </div>
 <div>&nbsp;</div>
 
