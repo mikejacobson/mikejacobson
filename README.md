@@ -111,7 +111,7 @@ I'm Mike. I'm a Frontend Developer in Encinitas, CA. I build enterprise Web appl
 <br>
 
 
-## A sampling of my Stack Overflow answers
+## A sampling of my Stack Overflow answers (I'm super helpful! 💪😜)
 
 <br>
 <div>
