@@ -23,6 +23,13 @@ I'm Mike. I'm a Frontend Developer in Encinitas, CA. I build enterprise Web appl
 <br>
 
 <div>
+<img align="left" alt="PrimeNG" src="https://img.shields.io/badge/primeng-%23e20031?style=for-the-badge&logoColor=white" />
+</div>
+  
+<br>
+<br>
+
+<div>
 <img align="left" alt="CSS" src="https://img.shields.io/badge/css3-%231572B6?style=for-the-badge&logo=css3&logoColor=white" />
 <img align="left" alt="SASS" src="https://img.shields.io/badge/sass-%23CC6699?style=for-the-badge&logo=sass&logoColor=white" />
 </div>
