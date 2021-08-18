@@ -9,9 +9,15 @@ I'm Mike. I'm a Frontend Developer in Encinitas, CA. I build enterprise Web appl
 <img align="left" alt="TypeScript" src="https://img.shields.io/badge/typescript-%233178C6?style=for-the-badge&logo=typescript&logoColor=white" />
 <img align="left" alt="RxJS" src="https://img.shields.io/badge/rxjs-%23B7178C?style=for-the-badge&logo=reactivex&logoColor=white" />
 <img align="left" alt="Lodash" src="https://img.shields.io/badge/lodash-%233492ff?style=for-the-badge&logoColor=white" />
+
+<br>
+<br>
+
+<div>
 <img align="left" alt="AngularJS" src="https://img.shields.io/badge/angularjs-%23E23237?style=for-the-badge&logo=angularjs&logoColor=white" />
 <img align="left" alt="jQuery" src="https://img.shields.io/badge/jquery-%230769AD?style=for-the-badge&logo=jquery&logoColor=7acef4" />
-
+</div>
+  
 <br>
 <br>
 
@@ -43,6 +49,14 @@ I'm Mike. I'm a Frontend Developer in Encinitas, CA. I build enterprise Web appl
 <img align="left" alt="Chai" src="https://img.shields.io/badge/chai-%23A30701?style=for-the-badge&logo=chai&logoColor=white" />
 </div>
 
+<br>
+<br>
+
+<div>
+<img align="left" alt="Git" src="https://img.shields.io/badge/git-%23F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img align="left" alt="GitHub" src="https://img.shields.io/badge/github-%23181717?style=for-the-badge&logo=github&logoColor=white" />
+</div>
+  
 <br>
 <br>
 <br>
