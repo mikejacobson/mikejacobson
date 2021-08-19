@@ -1,5 +1,5 @@
 ### Hi there! 👋
-I'm Mike. I'm a Frontend Developer in Encinitas, CA. I build enterprise Web applications using Angular and Node.
+I'm Mike. I'm a Frontend Developer in Encinitas, CA. I build enterprise Web applications using Angular and Node and all the other fun, cool stuff you see below.
 
 <br>
 
@@ -22,14 +22,8 @@ I'm Mike. I'm a Frontend Developer in Encinitas, CA. I build enterprise Web appl
 <br>
 
 <div>
-<img align="left" alt="NodeJS" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
-</div>
-
-<br>
-<br>
-
-<div>
 <img align="left" alt="PrimeNG" src="https://img.shields.io/badge/primeng-%23e20031?style=for-the-badge&logoColor=white" />
+<img align="left" alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%237952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
 </div>
   
 <br>
@@ -47,6 +41,13 @@ I'm Mike. I'm a Frontend Developer in Encinitas, CA. I build enterprise Web appl
 <img align="left" alt="Jasmine" src="https://img.shields.io/badge/jasmine-%238A4182?style=for-the-badge&logo=jasmine&logoColor=white" />
 <img align="left" alt="Mocha" src="https://img.shields.io/badge/mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white" />
 <img align="left" alt="Chai" src="https://img.shields.io/badge/chai-%23A30701?style=for-the-badge&logo=chai&logoColor=white" />
+</div>
+
+<br>
+<br>
+
+<div>
+<img align="left" alt="NodeJS" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
 </div>
 
 <br>
