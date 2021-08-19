@@ -57,7 +57,14 @@ I'm Mike. I'm a Frontend Developer in Encinitas, CA. I build enterprise Web appl
 <img align="left" alt="Git" src="https://img.shields.io/badge/git-%23F05032?style=for-the-badge&logo=git&logoColor=white" />
 <img align="left" alt="GitHub" src="https://img.shields.io/badge/github-%23181717?style=for-the-badge&logo=github&logoColor=white" />
 </div>
-  
+
+<br>
+<br>
+
+<div>
+<img align="left" alt="macOS" src="https://img.shields.io/badge/macos-%23000000?style=for-the-badge&logo=macos&logoColor=white" />
+</div>
+
 <br>
 <br>
 <br>
