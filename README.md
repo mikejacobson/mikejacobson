@@ -3,7 +3,7 @@ I'm Mike. I'm a Frontend Developer in Encinitas, CA. I build enterprise Web appl
 
 <br>
 
-## My experience, summarized in badge form
+## My experience, summarized in colorful badge form
 <img align="left" alt="JavaScript" src="https://img.shields.io/badge/javascript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 <img align="left" alt="Angular" src="https://img.shields.io/badge/angular-%23DD0031?style=for-the-badge&logo=angular&logoColor=white" />
 <img align="left" alt="TypeScript" src="https://img.shields.io/badge/typescript-%233178C6?style=for-the-badge&logo=typescript&logoColor=white" />
