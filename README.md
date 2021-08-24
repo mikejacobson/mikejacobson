@@ -80,25 +80,32 @@ I'm Mike. I'm a Frontend Developer in Encinitas, CA. I build enterprise Web appl
 
 ## What I've been working on recently
 
-* I added a mode toggle to [PrimeNG's Calendar component](https://www.primefaces.org/primeng/showcase/#/calendar) that allows you to toggle between single-date and date-range select. The component didn't support it but I needed it for a work task. Here's what it looks like:
+### Extending a Third Party Component
+
+I added a mode toggle to [PrimeNG's Calendar component](https://www.primefaces.org/primeng/showcase/#/calendar) that allows you to toggle between single-date and date-range selection. (PrimeNG is an Angular component library, if you're not familiar.)
+
+The component didn't have a built-in toggler but it was a work requirement so I had to roll my own. Here's how it turned out:
 
 ![Calendar with Mode Toggle Buttons](https://github.com/mikejacobson/primeng-calendar-mode-toggle-directive/blob/main/images/mode-toggle-buttons-pointed-out.png?raw=true)
 
-I couldn't decide on the best way to do it, so I tried three different Angular techniques. 🤓
+It blends in seamlessly with the existing "Today" and "Clear" buttons, eh? 🤘
 
-I figured I would share them in my GitHub in case someone else has the same need:
+I couldn't decide on the best way to do it so I did it three different ways using different Angular techniques. 🤓
+
 #### 1. Directive with the toggle buttons defined in the template
 https://github.com/mikejacobson/primeng-calendar-mode-toggle-directive
 
 #### 2. Directive with the toggle buttons created programmatically using Renderer
 https://github.com/mikejacobson/primeng-calendar-mode-toggle-directive-using-renderer
 
-#### 3. Component using CDK Portal to portal the buttons into the Calendar (mostly just to try out CDK Portal)
+#### 3. Component defining the buttons and using [CDK Portal](https://material.angular.io/cdk/portal/overview) to portal them into the Calendar (mostly just to try out CDK Portal)
 https://github.com/mikejacobson/primeng-calendar-mode-toggle-component-using-cdk-portal
 
 <br>
 
-* I'm also working my way through Josh Comeau's awesome [CSS for JavaScript Developers](https://css-for-js.dev/) course. No matter how much I think I know CSS, I'm always learning new things. (How have I never heard of the [`isolation`](https://developer.mozilla.org/en-US/docs/Web/CSS/isolation) property before?!)
+### Taking a CSS Course
+
+I'm also working my way through [Josh Comeau](https://www.joshwcomeau.com/)'s awesome [CSS for JavaScript Developers](https://css-for-js.dev/) course. No matter how much I think I know CSS, I'm always learning new things. (How have I never heard of the [`isolation`](https://developer.mozilla.org/en-US/docs/Web/CSS/isolation) property before?!)
 
 <br>
 <br>
