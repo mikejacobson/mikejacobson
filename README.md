@@ -78,6 +78,31 @@ I'm Mike. I'm a Frontend Developer in Encinitas, CA. I build enterprise Web appl
 <br>
 <br>
 
+## What I've been working on recently
+
+* I added a mode toggle to [PrimeNG's Calendar component](https://www.primefaces.org/primeng/showcase/#/calendar) that allows you to toggle between single-date and date-range select. The component didn't support it but I needed it for a work task. Here's what it looks like:
+
+![Calendar with Mode Toggle Buttons](https://github.com/mikejacobson/primeng-calendar-mode-toggle-directive/blob/main/images/mode-toggle-buttons-pointed-out.png?raw=true)
+
+I couldn't decide on the best way to do it, so I tried three different Angular techniques. 🤓
+
+I figured I would share them in my GitHub in case someone else has the same need:
+#### 1. Directive with the toggle buttons defined in the template
+https://github.com/mikejacobson/primeng-calendar-mode-toggle-directive
+
+#### 2. Directive with the toggle buttons created programmatically using Renderer
+https://github.com/mikejacobson/primeng-calendar-mode-toggle-directive-using-renderer
+
+#### 3. Component using CDK Portal to portal the buttons into the Calendar (mostly just to try out CDK Portal)
+https://github.com/mikejacobson/primeng-calendar-mode-toggle-component-using-cdk-portal
+
+<br>
+
+* I'm also working my way through Josh Comeau's awesome [CSS for JavaScript Developers](https://css-for-js.dev/) course. No matter how much I think I know CSS, I'm always learning new things. (How have I never heard of the [`isolation`](https://developer.mozilla.org/en-US/docs/Web/CSS/isolation) property before?!)
+
+<br>
+<br>
+
 ## Articles I've written
 <img align="left" alt="article image" src="https://miro.medium.com/max/1050/1*GEOm4tJ-DLYm4rPXZooJHw.jpeg" width="150" />
 <div>
