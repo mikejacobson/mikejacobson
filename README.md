@@ -90,7 +90,7 @@ The component didn't have a built-in toggler but it was a work requirement so I 
 
 It blends in seamlessly with the existing "Today" and "Clear" buttons, eh? 🤘
 
-I couldn't decide on the best way to do it so I did it three different ways using different Angular techniques. 🤓
+I couldn't decide on the best way to implement it so I did it three different ways using different Angular techniques. 🤓
 
 #### 1. Directive with the toggle buttons defined in the template
 https://github.com/mikejacobson/primeng-calendar-mode-toggle-directive
@@ -98,7 +98,7 @@ https://github.com/mikejacobson/primeng-calendar-mode-toggle-directive
 #### 2. Directive with the toggle buttons created programmatically using Renderer
 https://github.com/mikejacobson/primeng-calendar-mode-toggle-directive-using-renderer
 
-#### 3. Component defining the buttons and using [CDK Portal](https://material.angular.io/cdk/portal/overview) to portal them into the Calendar (mostly just to try out CDK Portal)
+#### 3. Component defining the buttons and using [CDK Portal](https://material.angular.io/cdk/portal/overview) to portal them into the Calendar (mostly just to play with CDK Portal)
 https://github.com/mikejacobson/primeng-calendar-mode-toggle-component-using-cdk-portal
 
 <br>
