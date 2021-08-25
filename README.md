@@ -78,7 +78,7 @@ I'm Mike. I'm a Frontend Developer in Encinitas, CA. I build enterprise Web appl
 <br>
 <br>
 
-## What I've been working on recently
+## What I've been working on lately
 
 ### Extending a Third Party Component
 
