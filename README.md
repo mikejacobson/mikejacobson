@@ -90,8 +90,7 @@ The component didn't have a built-in toggler but it was a work requirement so I 
 
 It blends in seamlessly with the existing "Today" and "Clear" buttons, eh? 🤘
 
-![Calendar with Mode Toggle Buttons](https://github.com/mikejacobson/mikejacobson/blob/main/images/calendar-demo-small.gif?raw=true)
-
+![Calendar with Mode Toggle Buttons](https://github.com/mikejacobson/mikejacobson/blob/main/images/calendar-demo.gif?raw=true)
 
 I couldn't decide on the best way to implement it, so I did it three different ways using different Angular techniques...because that's how I roll: really, really geeky. 🤓
 
