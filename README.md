@@ -175,7 +175,7 @@ I'm also working my way through [Josh Comeau](https://www.joshwcomeau.com/)'s aw
 <br>
 
 
-## A sampling of my Stack Overflow answers (I'm super helpful! 💪🤓)
+## A sampling of my Stack Overflow answers (I'm super helpful! 💪🤓 )
 
 <br>
 <div>
