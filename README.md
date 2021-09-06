@@ -113,6 +113,17 @@ I'm also working my way through [Josh Comeau](https://www.joshwcomeau.com/)'s aw
 <br>
 
 ## Articles I've written
+<img align="left" alt="article image" src="https://miro.medium.com/max/960/1*A_IJ_SGmv3le0kQGiGfJZw.jpeg" width="150" />
+<div>
+<h3>
+
+[Using an Angular Directive to Extend a Third-Party Component](https://michaeljjacobson.medium.com/using-an-angular-directive-to-extend-a-third-party-component-39f0f46a4e0?sk=72729a22421216ee2b9e4b7993c8db6e)
+</h3>
+<p>I added mode-toggling to a PrimeNG Calendar! 🤘</p>
+</div>
+  
+<br><!-- =============================================================================== -->
+
 <img align="left" alt="article image" src="https://miro.medium.com/max/1050/1*GEOm4tJ-DLYm4rPXZooJHw.jpeg" width="150" />
 <div>
 <h3>
