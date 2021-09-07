@@ -78,46 +78,13 @@ I'm Mike. I'm a Frontend Developer in Encinitas, CA. I build enterprise Web appl
 <br>
 <br>
 
-## What I've been working on lately
-
-### Extending a Third Party Component
-
-I added a mode toggle to [PrimeNG's Calendar component](https://www.primefaces.org/primeng/showcase/#/calendar) that allows you to toggle between single-date and date-range selection. (PrimeNG is an Angular component library, if you're not familiar.)
-
-The component didn't have a built-in toggler but it was a work requirement so I had to roll my own. Here's how it turned out:
-
-![Calendar with Mode Toggle Buttons](https://github.com/mikejacobson/primeng-calendar-mode-toggle-directive/blob/main/images/mode-toggle-buttons-pointed-out.png?raw=true)
-
-It blends in seamlessly with the existing "Today" and "Clear" buttons, eh? 🤘
-
-![Calendar with Mode Toggle Buttons](https://github.com/mikejacobson/mikejacobson/blob/main/images/calendar-demo.gif?raw=true)
-
-I couldn't decide on the best way to implement it, so I did it three different ways using different Angular techniques...because that's how I roll: really, really geeky. 🤓
-
-#### 1. Directive with the toggle buttons defined in the template
-https://github.com/mikejacobson/primeng-calendar-mode-toggle-directive
-
-#### 2. Directive with the toggle buttons created programmatically using Renderer
-https://github.com/mikejacobson/primeng-calendar-mode-toggle-directive-using-renderer
-
-#### 3. Component defining the buttons and using [CDK Portal](https://material.angular.io/cdk/portal/overview) to portal them into the Calendar (mostly just to play with CDK Portal)
-https://github.com/mikejacobson/primeng-calendar-mode-toggle-component-using-cdk-portal
-
-<br>
-
-### Taking a CSS Course
-
-I'm also working my way through [Josh Comeau](https://www.joshwcomeau.com/)'s awesome [CSS for JavaScript Developers](https://css-for-js.dev/) course. No matter how much I think I know CSS, I'm always learning new things. (How have I never heard of the [`isolation`](https://developer.mozilla.org/en-US/docs/Web/CSS/isolation) property before?!)
-
-<br>
-<br>
 
 ## Articles I've written
 <img align="left" alt="article image" src="https://miro.medium.com/max/960/1*A_IJ_SGmv3le0kQGiGfJZw.jpeg" width="150" />
 <div>
 <h3>
 
-[Using an Angular Directive to Extend a Third-Party Component](https://michaeljjacobson.medium.com/using-an-angular-directive-to-extend-a-third-party-component-39f0f46a4e0?sk=72729a22421216ee2b9e4b7993c8db6e)
+[Using an Angular Directive to Extend a Third-Party Component](https://itnext.io/using-an-angular-directive-to-extend-a-third-party-component-39f0f46a4e0?source=friends_link&sk=72729a22421216ee2b9e4b7993c8db6e)
 </h3>
 <p>I added mode-toggling to a PrimeNG Calendar! 🤘</p>
 </div>
