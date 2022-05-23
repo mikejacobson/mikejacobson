@@ -171,11 +171,23 @@ I'm Mike. I'm a Frontend Developer in Encinitas, CA. I build enterprise Web appl
 <div>
 <h3>
 
+[In angular code, foreach loop skips to the other function before finishing the loop iteration](https://stackoverflow.com/a/72334604/4192097)
+</h3>
+<p>The for each loop is not executed but the next function is executed first. I want the loop to iterate first and then go to the other function...</p>
+</div>
+  
+<br><!-- =============================================================================== -->
+
+<img align="left" alt="stackoverflow logo" src="https://cdn.sstatic.net/Sites/stackoverflow/Img/apple-touch-icon.png" width="90" />
+
+<div>
+<h3>
+
 [Angular unit test with mocked observable not returning value](https://stackoverflow.com/questions/67364493/angular-unit-test-with-mocked-observable-not-returning-value/67393900#67393900)
 </h3>
 <p>My component returns the current shift based on the hour...</p>
 </div>
-  
+
 <br><!-- =============================================================================== -->
 
 <img align="left" alt="stackoverflow logo" src="https://cdn.sstatic.net/Sites/stackoverflow/Img/apple-touch-icon.png" width="90" />
