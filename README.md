@@ -171,11 +171,23 @@ I'm Mike. I'm a Frontend Developer in Encinitas, CA. I build enterprise Web appl
 <div>
 <h3>
 
+[Angular: display content projection with nested children](https://stackoverflow.com/a/72416964/4192097)
+</h3>
+<p>I have a component where I would like to display configurable html in the child component. Child components are not accessible to the client. So I think what I'm looking for is content projection...</p>
+</div>
+  
+<br><!-- =============================================================================== -->
+
+<img align="left" alt="stackoverflow logo" src="https://cdn.sstatic.net/Sites/stackoverflow/Img/apple-touch-icon.png" width="90" />
+
+<div>
+<h3>
+
 [In angular code, foreach loop skips to the other function before finishing the loop iteration](https://stackoverflow.com/a/72334604/4192097)
 </h3>
 <p>The for each loop is not executed but the next function is executed first. I want the loop to iterate first and then go to the other function...</p>
 </div>
-  
+
 <br><!-- =============================================================================== -->
 
 <img align="left" alt="stackoverflow logo" src="https://cdn.sstatic.net/Sites/stackoverflow/Img/apple-touch-icon.png" width="90" />
