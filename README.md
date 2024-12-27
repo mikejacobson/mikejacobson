@@ -1,5 +1,5 @@
 ### Hi there! 👋
-I'm Mike. I'm a Frontend Developer in Encinitas, CA. I build enterprise Web applications using Angular and Node and all the other fun, cool stuff you see below.
+I'm Mike. I'm a Frontend Engineer in Encinitas, CA. I build enterprise Web applications using Angular and all the other fun, cool stuff you see below.
 
 <br>
 
